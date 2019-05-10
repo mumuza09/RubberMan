@@ -1,0 +1,141 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Product Assembly Cost\n"
+"POT-Creation-Date: 2018-11-07 09:53+0000\n"
+"PO-Revision-Date: 2018-03-05 17:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: product-assembly-cost.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: product-assembly-cost.php:37
+#, php-format
+msgid "Ask for assembly of this item for %s?"
+msgstr ""
+
+#: product-assembly-cost.php:57
+msgid "Product assembly"
+msgstr ""
+
+#: product-assembly-cost.php:63
+msgid "Assembly enabled by default?"
+msgstr ""
+
+#: product-assembly-cost.php:64
+msgid "Enable this to allow assembly for products by default"
+msgstr ""
+
+#: product-assembly-cost.php:69
+msgid "Default assembly cost"
+msgstr ""
+
+#: product-assembly-cost.php:70
+msgid ""
+"The cost of assembly, per product, unless overridden at the product level"
+msgstr ""
+
+#: product-assembly-cost.php:79
+msgid "Assembly message"
+msgstr ""
+
+#: product-assembly-cost.php:81
+msgid ""
+"Note: <code>{checkbox}</code> will be replaced with a checkbox and "
+"<code>{price}</code> will be replaced with the assembly cost"
+msgstr ""
+
+#: product-assembly-cost.php:83
+msgid "The checkbox and label shown to the user on the frontend."
+msgstr ""
+
+#: product-assembly-cost.php:86
+msgid "Show cost as a global fee?"
+msgstr ""
+
+#: product-assembly-cost.php:87
+msgid ""
+"Enable this to show the assembly as a global fee on the cart subtotals "
+"instead of adding the cost to the product itself"
+msgstr ""
+
+#: product-assembly-cost.php:151
+msgid "Assembly available"
+msgstr ""
+
+#: product-assembly-cost.php:152
+msgid ""
+"Enable this option if the customer can choose to buy the assembly service"
+msgstr ""
+
+#: product-assembly-cost.php:157
+msgid "Assembly cost"
+msgstr ""
+
+#: product-assembly-cost.php:160
+msgid "Override the default assembly cost by inputting a value here"
+msgstr ""
+
+#: product-assembly-cost.php:219
+msgid "free"
+msgstr ""
+
+#: product-assembly-cost.php:285 product-assembly-cost.php:313
+msgid "Assembly"
+msgstr ""
+
+#: product-assembly-cost.php:286 product-assembly-cost.php:287
+#: product-assembly-cost.php:313
+msgid "Yes"
+msgstr ""
+
+#: product-assembly-cost.php:286 product-assembly-cost.php:287
+#, php-format
+msgid "%s / unit"
+msgstr ""
+
+#: product-assembly-cost.php:336
+#, php-format
+msgid "Assembly (%d items)"
+msgstr ""
+
+#: product-assembly-cost.php:349
+#, php-format
+msgid "(includes %s)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Product Assembly Cost for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.webdados.pt/produtos-e-servicos/internet/desenvolvimento-"
+"wordpress/product-assembly-cost-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add an option to your WooCommerce products to enable assembly service and "
+"optionally charge a fee."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webdados"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webdados.pt"
+msgstr ""

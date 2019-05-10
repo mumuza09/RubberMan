@@ -1,0 +1,181 @@
+# Copyright (C) 2017 WooCommerce Price Per Unit
+# This file is distributed under the same license as the WooCommerce Price Per Unit package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Price Per Unit 1.8\n"
+"POT-Creation-Date: 2019-02-25 14:51+0100\n"
+"PO-Revision-Date: 2017-04-06 16:00-0500\n"
+"Last-Translator: Martin Mechura\n"
+"Language-Team: LANGUAGE\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_x;_e;_ex;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: !Snippets\n"
+"X-Poedit-SearchPathExcluded-1: .vscode\n"
+"X-Poedit-SearchPathExcluded-2: .history\n"
+"X-Poedit-SearchPathExcluded-3: .git\n"
+
+#: additional-translations.php:2
+msgid "without VAT"
+msgstr ""
+
+#: woo-price-per-unit.php:162
+msgid "Settings"
+msgstr ""
+
+#: woo-price-per-unit.php:172
+msgid "Price per unit"
+msgstr ""
+
+#: woo-price-per-unit.php:186
+msgid "Local overrides for price recalculation"
+msgstr ""
+
+#: woo-price-per-unit.php:187
+msgid "These settings will affect only this product despite global settings."
+msgstr ""
+
+#: woo-price-per-unit.php:188
+msgid "Global settings can be found at "
+msgstr ""
+
+#: woo-price-per-unit.php:190
+msgid "<i>WooCommerce -> Settings -> Products -> Price Per Unit</i>"
+msgstr ""
+
+#: woo-price-per-unit.php:196 woo-price-per-unit.php:323
+msgid "Shop page price behavior"
+msgstr ""
+
+#: woo-price-per-unit.php:197 woo-price-per-unit.php:324
+msgid "Behaviour of recalculated price on shop page"
+msgstr ""
+
+#: woo-price-per-unit.php:200 woo-price-per-unit.php:215
+msgid "Default - according to general settings"
+msgstr ""
+
+#: woo-price-per-unit.php:201 woo-price-per-unit.php:216
+msgid "Do not recalculate"
+msgstr ""
+
+#: woo-price-per-unit.php:202 woo-price-per-unit.php:217
+#: woo-price-per-unit.php:332 woo-price-per-unit.php:349
+msgid "Show recalculated price as new row"
+msgstr ""
+
+#: woo-price-per-unit.php:203 woo-price-per-unit.php:218
+#: woo-price-per-unit.php:333 woo-price-per-unit.php:350
+msgid "Replace price view with recalculated"
+msgstr ""
+
+#: woo-price-per-unit.php:211 woo-price-per-unit.php:340
+msgid "Single product page behavior"
+msgstr ""
+
+#: woo-price-per-unit.php:212 woo-price-per-unit.php:341
+msgid "Behaviour of recalculated price on single product page"
+msgstr ""
+
+#: woo-price-per-unit.php:226 woo-price-per-unit.php:357
+msgid "Recalculated price additional text"
+msgstr ""
+
+#: woo-price-per-unit.php:227
+msgid "Will be shown immediatelly after recalculated prices. Will be shown ONLY when recalculation takes place."
+msgstr ""
+
+#: woo-price-per-unit.php:228 woo-price-per-unit.php:359
+msgid "Example \"/Kg\""
+msgstr ""
+
+#: woo-price-per-unit.php:254
+msgid "Price Per Unit"
+msgstr ""
+
+#: woo-price-per-unit.php:262
+msgid "General price options"
+msgstr ""
+
+#: woo-price-per-unit.php:263
+msgid "Settings which affects all products"
+msgstr ""
+
+#: woo-price-per-unit.php:268
+msgid "General price additional text"
+msgstr ""
+
+#: woo-price-per-unit.php:269
+msgid "This text will be shown after every price text. You can modify it's appearance through CSS class mcmp-general-price-suffix."
+msgstr ""
+
+#: woo-price-per-unit.php:270
+msgid "Example \"Without Vat\""
+msgstr ""
+
+#: woo-price-per-unit.php:276
+msgid "Sale price - hide regular price"
+msgstr ""
+
+#: woo-price-per-unit.php:277
+msgid "When product is on sale it shows regular price and sale price. This will hide the regular price for all products."
+msgstr ""
+
+#: woo-price-per-unit.php:285
+msgid "Options for variable products"
+msgstr ""
+
+#: woo-price-per-unit.php:286
+msgid "These settings affect only variable products"
+msgstr ""
+
+#: woo-price-per-unit.php:291
+msgid "Variations - prefix for variable price"
+msgstr ""
+
+#: woo-price-per-unit.php:292
+msgid "If the product is variable this text will be shown before the price. You can modify it's appearance through CSS class mcmp-variable-price-prefix."
+msgstr ""
+
+#: woo-price-per-unit.php:293
+msgid "Example \"From:\""
+msgstr ""
+
+#: woo-price-per-unit.php:300
+msgid "Variations - Display only lower price"
+msgstr ""
+
+#: woo-price-per-unit.php:301
+msgid "When displaying variation the price is displayed as \"$10-$25\". With this setting you will get just \"$10\""
+msgstr ""
+
+#: woo-price-per-unit.php:309
+msgid "Price recalculation"
+msgstr ""
+
+#: woo-price-per-unit.php:310
+msgid "General settings for price recalculation"
+msgstr ""
+
+#: woo-price-per-unit.php:315
+msgid "New row different styling"
+msgstr ""
+
+#: woo-price-per-unit.php:316
+msgid "When displaying price as new row, the new row will be displayed in italics with slightly smaller font size. For more styling you can use CSS class mcmp_recalc_price_row."
+msgstr ""
+
+#: woo-price-per-unit.php:331 woo-price-per-unit.php:348
+msgid "Do not show recalculated price"
+msgstr ""
+
+#: woo-price-per-unit.php:358
+msgid "Will be shown immediatelly after recalculated prices. Can be overriden in product editor. Will be shown ONLY when recalculation takes place. You can modify it's appearance through CSS class mcmp-recalc-price-suffix."
+msgstr ""

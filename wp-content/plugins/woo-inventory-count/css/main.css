@@ -1,0 +1,64 @@
+.wcic_woopos_section {
+	border-style: solid #ffffff;
+	border-top: 2px solid #1e73be;
+	border-radius: 5px;
+	background-color: #ffffff;
+	padding: 15px;
+}
+#wcic_woopos_categories {
+	max-width: 300px;
+}
+.woopos_ul {
+        padding-left: 10px !important;
+        padding-top: 5px !important;
+}
+.woopos_btn {
+	background-color: #19496F;
+	color: #ffffff;
+	border: solid 2px #687377;
+	border-radius: 25px;
+	cursor: pointer;
+	padding: 2px 15px 2px 15px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	letter-spacing: 0.05em;
+	transition: background-color 0.2s ease-out 0.1s;
+}
+.woopos_btn:hover {
+	background-color: #0073AA;
+	border-color: #0b2e08;
+	color: #ffffff;
+	transition: background-color 0.1s ease-in 0.05s;
+}
+.qr_code {
+	width: 200px;
+	transition-timing-function: ease-in-out;
+  -webkit-transition: width 1s; /* Safari */
+   	     transition: width 1s;
+}
+.qr_code:hover {
+	    -webkit-transition: width 1s; /* Safari */
+   	     transition: width 1s;
+	     width: 300px !important;
+	     transition-timing-function: ease-in-out;
+}
+#upload_by_qrcode {
+	margin-left:10px;
+	display: none;
+}
+#qr_upload_chk {
+	color: #f40000;
+	font-weight: bold;
+}
+.woopos_btn2 {
+	background-color: white;
+	border-color: blue;
+	border-width: 1px;
+	border-style: dashed;
+	cursor: pointer;
+	font-weight: bold;
+	padding: 5px;
+}
+.woopos_btn2:disabled {
+	border-color: gray;
+	cursor: not-allowed;
+}

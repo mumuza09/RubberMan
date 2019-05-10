@@ -1,0 +1,925 @@
+# SHOPPING STORE PRO
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# CODE THEMES <INFO@PRIDETHEMES.COM>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-19 22:01+0545\n"
+"PO-Revision-Date:  2018-08-19 22:01+0545\n"
+"Last-Translator: PRIDE THEMES <INFO@PRIDETHEMES.COM>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:49
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:74 index.php:60
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: archive.php:75 index.php:61
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:70
+msgid "Powered By WordPress"
+msgstr ""
+
+#: footer.php:71
+msgid " | "
+msgstr ""
+
+#: footer.php:73
+msgid "Shopping Store Lite"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:129 functions.php:139
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:137
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:147
+msgid "Pre-footer 1"
+msgstr ""
+
+#: functions.php:157
+msgid "Pre-footer 2"
+msgstr ""
+
+#: functions.php:167
+msgid "Pre-footer 3"
+msgstr ""
+
+#: functions.php:176
+msgid "Pre-footer 4"
+msgstr ""
+
+#: header.php:36
+msgid "close"
+msgstr ""
+
+#: header.php:103
+msgid "Toggle navigation"
+msgstr ""
+
+#: plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: plugin-activation.php:386 plugin-activation.php:827
+#: plugin-activation.php:2533 plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugin-activation.php:387 plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: plugin-activation.php:388 plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: plugin-activation.php:934 plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: plugin-activation.php:1121 plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: plugin-activation.php:3509 plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: plugin-activation.php:3509 plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: search.php:36
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/custom-breadcrumb.php:27
+msgid "Search Page"
+msgstr ""
+
+#: inc/custom-breadcrumb.php:39
+msgid "Blog"
+msgstr ""
+
+#: inc/custom-breadcrumb.php:41
+msgid "Home"
+msgstr ""
+
+#: inc/custom-breadcrumb.php:105
+msgid "Search results for: "
+msgstr ""
+
+#: inc/custom-breadcrumb.php:107
+msgid "Tag"
+msgstr ""
+
+#: inc/custom-breadcrumb.php:111
+msgid "Articles posted by"
+msgstr ""
+
+#: inc/custom-breadcrumb.php:113
+msgid "Error 404"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Header Phone And Email"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Banner Option"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Top Call Out Section"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Product Listing Section"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Single Product Listing Section"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Footer Options"
+msgstr ""
+
+#: inc/template-tags.php:34
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:41
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:61
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:68
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:78
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:95 template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/shopping-store-default-values.php:49
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/shopping-store-default-values.php:50
+msgid "Pride Themes"
+msgstr ""
+
+#: inc/customizer/functions/additional-customizer.php:17
+#: inc/customizer/functions/theme-options.php:85
+msgid "Show Product Listing Section In Homepage ? "
+msgstr ""
+
+#: inc/customizer/functions/additional-customizer.php:37
+#: inc/customizer/functions/theme-options.php:119
+msgid "Choose Product To Show"
+msgstr ""
+
+#: inc/customizer/functions/additional-customizer.php:41
+#: inc/customizer/functions/theme-options.php:126
+msgid "New Products"
+msgstr ""
+
+#: inc/customizer/functions/additional-customizer.php:42
+#: inc/customizer/functions/theme-options.php:124
+msgid "Sale Products"
+msgstr ""
+
+#: inc/customizer/functions/additional-customizer.php:43
+#: inc/customizer/functions/theme-options.php:123
+msgid "Feature Products"
+msgstr ""
+
+#: inc/customizer/functions/additional-customizer.php:44
+#: inc/customizer/functions/theme-options.php:125
+msgid "Maximum Sale Products"
+msgstr ""
+
+#: inc/customizer/functions/banner-options.php:26
+#: inc/customizer/functions/featured-content-customizer.php:29
+msgid " Page Slider"
+msgstr ""
+
+#: inc/customizer/functions/customizer-control.php:37
+msgid "Add Category And Assign Products To Woocommerce Category"
+msgstr ""
+
+#: inc/customizer/functions/customizer-control.php:41
+msgid "All Product"
+msgstr ""
+
+#: inc/customizer/functions/customizer-control.php:54
+#: inc/customizer/functions/customizer-control.php:153
+msgid ""
+"Please Install Woocommerce Plugin and Assign Product To Woocommerce Category"
+msgstr ""
+
+#: inc/customizer/functions/customizer-control.php:79
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/functions/customizer-control.php:86
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/functions/customizer-control.php:92
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:14
+msgid "Slider Option"
+msgstr ""
+
+#: inc/customizer/functions/footer-options.php:17
+msgid "Show pre-footer section in homepage ? "
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:18
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:31
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:44
+msgid "Widgets"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:58
+msgid "Contact Us Page Options"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:22
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:38
+msgid "Select"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:52
+msgid "Reset all default settings. (Refresh it to view the effect)"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:66
+msgid "Layout picker"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:101
+msgid "Section Title And Description"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:140
+msgid "Support Title"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:154
+msgid "Support Phone"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:168
+msgid "Support Email"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:196
+msgid "Show Blog Section In Homepage? "
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:212
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:228
+msgid "Meta for blog page"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:234
+msgid "Show Meta"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:235
+msgid "Hide Meta"
+msgstr ""
+
+#: inc/customizer/functions/top-call-out.php:17
+msgid "Show Top Call Out in homepage ? "
+msgstr ""
+
+#: inc/customizer/functions/top-call-out.php:37
+msgid "Choose Product Category First"
+msgstr ""
+
+#: inc/customizer/functions/top-call-out.php:53
+msgid "Choose Product Category Second"
+msgstr ""
+
+#: inc/customizer/functions/top-call-out.php:71
+msgid "Choose Product Category Third"
+msgstr ""
+
+#: lib/shopping-store-enqueue.php:11
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: lib/shopping-store-enqueue.php:15
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: lib/shopping-store-function.php:15
+msgid "Login"
+msgstr ""
+
+#: lib/shopping-store-function.php:17
+msgid "or"
+msgstr ""
+
+#: lib/shopping-store-function.php:19
+msgid "Register"
+msgstr ""
+
+#: lib/shopping-store-function.php:22
+msgid "My Account"
+msgstr ""
+
+#: lib/shopping-store-function.php:283 template-parts/content.php:74
+msgid "Read More"
+msgstr ""
+
+#: lib/shopping-store-function.php:528
+#: template-parts/homepage/product-section.php:51
+msgid "Quick View"
+msgstr ""
+
+#: lib/shopping-store-function.php:531 lib/shopping-store-function.php:619
+#: template-parts/homepage/product-section.php:54
+msgid "Add To Cart"
+msgstr ""
+
+#: lib/shopping-store-function.php:619
+msgid "Add to Cart"
+msgstr ""
+
+#: lib/shopping-store-function.php:662
+msgid "Shop Now"
+msgstr ""
+
+#: lib/shopping-store-function.php:685
+msgid "Post navigation"
+msgstr ""
+
+#: lib/shopping-store-function.php:695
+msgid "&nbsp;Prev Post"
+msgstr ""
+
+#: lib/shopping-store-function.php:715
+msgid "Next Post&nbsp;"
+msgstr ""
+
+#: lib/shopping-store-tgmp.php:61
+msgid "Jetpack"
+msgstr ""
+
+#: lib/shopping-store-tgmp.php:67
+msgid "Woocommerce"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content.php:66
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:43 template-parts/content.php:39
+msgid " Comments"
+msgstr ""
+
+#: template-parts/content-single.php:61 template-parts/content.php:55
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/homepage/blog-section.php:60
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: template-parts/homepage/single-product-slider.php:46
+msgid "View Product"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""

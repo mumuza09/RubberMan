@@ -1,0 +1,17 @@
+// Icon size fix
+#toplevel_page_qa-base-admin-page {
+  ul {
+    li.wp-first-item {
+      display: none;
+    }
+  }
+  .dashicons-before {
+    img {
+      width: 65%;
+      padding: 7px 0 0 0;
+    }
+  }
+  .wp-menu-name {
+    font-size: 13px;
+  }
+}

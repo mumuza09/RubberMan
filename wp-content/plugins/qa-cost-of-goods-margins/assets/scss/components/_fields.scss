@@ -1,0 +1,32 @@
+// Form fields as well as other fields style
+.qa-input-field {
+  $c: &;         // Set the parent as a variable
+  padding-left: 2em !important;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-color: #FCE4EE !important;
+  box-shadow: none !important;
+  border: 1px solid #C18497 !important;
+  border-radius: 3px;
+
+  @at-root #variable_product_options_inner {
+    & .form-field {
+      #{$c} {
+        background-size: auto 100%;
+        padding-left: 2.3em !important;
+      }
+    }
+  }
+
+  &:read-only {
+    background-color: #e7e7e7 !important;
+    &:focus {
+      outline: none;
+      box-shadow: none !important
+    }
+  }
+  &:focus {
+    border-color: #C18497 !important;
+    box-shadow: 0 0 2px #C18497 !important;
+  }
+}
